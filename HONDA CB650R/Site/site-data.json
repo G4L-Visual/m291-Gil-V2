@@ -1,0 +1,125 @@
+{
+  "site": {
+    "nom": "Swiss Ride",
+    "modele": "Honda CBR650R",
+    "description": "Expérience immersive 3D de la Honda CBR650R",
+    "type": "projet scolaire indépendant"
+  },
+  "moto": {
+    "marque": "Honda",
+    "modele": "CBR650R E-Clutch",
+    "annee": 2026,
+    "cylindree_cm3": 649,
+    "puissance_ch": 95,
+    "couple_nm": 63,
+    "rapports": 6
+  },
+  "chapitres": [
+    {
+      "ancre": "accueil",
+      "titre": "Vue d’ensemble"
+    },
+    {
+      "ancre": "design",
+      "titre": "Les lignes"
+    },
+    {
+      "ancre": "feux",
+      "titre": "La signature lumineuse"
+    },
+    {
+      "ancre": "reservoir",
+      "titre": "Le réservoir"
+    },
+    {
+      "ancre": "dessus",
+      "titre": "La perspective"
+    },
+    {
+      "ancre": "compteur",
+      "titre": "Le poste de pilotage"
+    },
+    {
+      "ancre": "jante-avant",
+      "titre": "La roue avant"
+    },
+    {
+      "ancre": "cadre",
+      "titre": "La structure"
+    },
+    {
+      "ancre": "moteur",
+      "titre": "Le quatre cylindres"
+    },
+    {
+      "ancre": "dessous",
+      "titre": "Sous le carénage"
+    },
+    {
+      "ancre": "jante-arriere",
+      "titre": "La transmission"
+    },
+    {
+      "ancre": "selle",
+      "titre": "L’ergonomie"
+    },
+    {
+      "ancre": "feu-arriere",
+      "titre": "Le dernier regard"
+    },
+    {
+      "ancre": "decouvrir",
+      "titre": "Le prochain départ"
+    }
+  ],
+  "galerie": [
+    {
+      "fichier": "photos/honda-3.jpg",
+      "legende": "Vue de profil en studio"
+    },
+    {
+      "fichier": "photos/honda-4.jpg",
+      "legende": "La silhouette du modèle récent"
+    },
+    {
+      "fichier": "photos/honda-5.jpg",
+      "legende": "CBR650R sur circuit"
+    },
+    {
+      "fichier": "photos/honda-6.jpg",
+      "legende": "CBR650R sur une route de montagne"
+    },
+    {
+      "fichier": "photos/honda-7.jpg",
+      "legende": "Le profil et les proportions"
+    },
+    {
+      "fichier": "photos/honda-8.jpg",
+      "legende": "Vue trois quarts arrière"
+    },
+    {
+      "fichier": "photos/honda-10.jpg",
+      "legende": "Vue trois quarts avant sur route"
+    },
+    {
+      "fichier": "photos/honda-11.jpg",
+      "legende": "La livrée rouge en studio"
+    },
+    {
+      "fichier": "photos/honda-12.jpg",
+      "legende": "La CBR650R sur route"
+    },
+    {
+      "fichier": "photos/honda-14.jpg",
+      "legende": "Gros plan sur le système Honda E-Clutch"
+    },
+    {
+      "fichier": "photos/honda-15.jpg",
+      "legende": "Tableau de bord TFT et Honda RoadSync"
+    },
+    {
+      "fichier": "photos/honda-16.jpg",
+      "legende": "La CBR650R en ville"
+    }
+  ]
+}
